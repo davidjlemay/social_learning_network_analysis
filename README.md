@@ -1,4 +1,4 @@
-# social_learning_network_analysis
+# Social Learning Network Analysis
 Implementation of a social learning network optimization algorithm
 
 This implementation based on Brinton, C. G., Buccapatnam, S., Zheng, L., Cao, D., Lan, A. S., Wong, F. M. F., … Poor, H. V. (2018). On the Efficiency of Online Social Learning Networks. _IEEE/ACM Transactions on Networking, 26_(5), 2076–2089. https://doi.org/10.1109/TNET.2018.2859325
